@@ -1,0 +1,7 @@
+runtime: go111
+
+instance_class: F1
+
+env_variables:
+  SLACK_HOOK: "YOUR_SLACK_WEBHOOK"
+  PORT: 80
